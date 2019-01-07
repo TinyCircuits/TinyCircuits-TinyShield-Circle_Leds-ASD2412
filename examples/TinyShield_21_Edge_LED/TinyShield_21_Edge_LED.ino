@@ -1,12 +1,16 @@
 /*
-TinyDuino Edge LED Demo
+  TinyDuino Circle Edge LED Demo
   
-April 9 2014, by Ben Rose
+  This example turns on one LED at a time,
+  from 1 to 21, creating a circular path.
+  This example code is in the public domain.
 
-This example code is in the public domain.
+  Written 09 April 2014
+  By Ben Rose
+  Modified 07 January 2019
+  By Hunter Hykes
 
-http://www.tiny-circuits.com
-
+  https://TinyCircuits.com
 */
 
 void setup()
